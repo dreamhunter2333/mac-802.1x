@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>AuthenticationMethod</key>
+			<string></string>
+			<key>EAPClientConfiguration</key>
+			<dict>
+				<key>AcceptEAPTypes</key>
+				<array>
+					<integer>4</integer>
+				</array>
+				<key>EAPFASTProvisionPAC</key>
+				<false/>
+				<key>EAPFASTProvisionPACAnonymously</key>
+				<false/>
+				<key>EAPFASTUsePAC</key>
+				<false/>
+				<key>OuterIdentity</key>
+				<string></string>
+				<key>TTLSInnerAuthentication</key>
+				<string>MSCHAPv2</string>
+				<key>UserName</key>
+				<string>此处为学号</string>
+				<key>UserPassword</key>
+				<string>此处为密码</string>
+			</dict>
+			<key>EncryptionType</key>
+			<string>Any</string>
+			<key>HIDDEN_NETWORK</key>
+			<false/>
+			<key>Interface</key>
+			<string>FirstActiveEthernet</string>
+			<key>PayloadDisplayName</key>
+			<string>LiuD 802.1X</string>
+			<key>PayloadEnabled</key>
+			<true/>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.mdm.wutian.local.64871480-7401-012e-a354-0025bcdd2e0a.alacarte.interfaces.75446ca0-7401-012e-a357-0025bcdd2e0a</string>
+			<key>PayloadType</key>
+			<string>com.apple.firstactiveethernet.managed</string>
+			<key>PayloadUUID</key>
+			<string>75446ca0-7401-012e-a357-0025bcdd2e0a</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+	</array>
+	<key>PayloadDisplayName</key>
+	<string>LiuD</string>
+	<key>PayloadIdentifier</key>
+	<string>com.apple.mdm.wutian.local.64871480-7401-012e-a354-0025bcdd2e0a.alacarte</string>
+	<key>PayloadOrganization</key>
+	<string></string>
+	<key>PayloadRemovalDisallowed</key>
+	<false/>
+	<key>PayloadScope</key>
+	<string>User</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>64871480-7401-012e-a354-0025bcdd2e0a</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
